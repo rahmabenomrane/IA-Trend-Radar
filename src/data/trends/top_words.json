@@ -1,202 +1,202 @@
 [
   {
-    "word": "data",
-    "count": 12
+    "word": "chars",
+    "count": 25
   },
   {
     "word": "to",
+    "count": 11
+  },
+  {
+    "word": "of",
+    "count": 10
+  },
+  {
+    "word": "it",
+    "count": 10
+  },
+  {
+    "word": "new",
+    "count": 10
+  },
+  {
+    "word": "digital",
     "count": 9
   },
   {
-    "word": "crowdstrike",
+    "word": "agents",
+    "count": 8
+  },
+  {
+    "word": "in",
+    "count": 8
+  },
+  {
+    "word": "intelligence",
     "count": 7
   },
   {
-    "word": "supervised",
+    "word": "the",
+    "count": 7
+  },
+  {
+    "word": "technology",
+    "count": 7
+  },
+  {
+    "word": "china",
+    "count": 7
+  },
+  {
+    "word": "artificial",
+    "count": 6
+  },
+  {
+    "word": "is",
+    "count": 6
+  },
+  {
+    "word": "amazon",
+    "count": 6
+  },
+  {
+    "word": "avalanche",
+    "count": 6
+  },
+  {
+    "word": "asset",
+    "count": 6
+  },
+  {
+    "word": "assets",
     "count": 5
-  },
-  {
-    "word": "import",
-    "count": 5
-  },
-  {
-    "word": "week",
-    "count": 5
-  },
-  {
-    "word": "pip",
-    "count": 4
-  },
-  {
-    "word": "company",
-    "count": 4
-  },
-  {
-    "word": "age",
-    "count": 4
-  },
-  {
-    "word": "imputation",
-    "count": 3
   },
   {
     "word": "and",
+    "count": 5
+  },
+  {
+    "word": "internet",
+    "count": 5
+  },
+  {
+    "word": "wisdomtree",
+    "count": 5
+  },
+  {
+    "word": "fund",
+    "count": 5
+  },
+  {
+    "word": "announced",
+    "count": 5
+  },
+  {
+    "word": "made",
+    "count": 4
+  },
+  {
+    "word": "technological",
+    "count": 4
+  },
+  {
+    "word": "back",
+    "count": 4
+  },
+  {
+    "word": "continues",
+    "count": 4
+  },
+  {
+    "word": "growth",
+    "count": 4
+  },
+  {
+    "word": "reality",
+    "count": 4
+  },
+  {
+    "word": "global",
+    "count": 4
+  },
+  {
+    "word": "frontier",
+    "count": 4
+  },
+  {
+    "word": "market",
+    "count": 4
+  },
+  {
+    "word": "softbank",
+    "count": 4
+  },
+  {
+    "word": "engineering",
+    "count": 4
+  },
+  {
+    "word": "robotics",
+    "count": 4
+  },
+  {
+    "word": "allegations",
     "count": 3
   },
   {
-    "word": "based",
+    "word": "shift",
     "count": 3
   },
   {
-    "word": "missing",
+    "word": "more",
     "count": 3
   },
   {
-    "word": "imputers",
+    "word": "drive",
     "count": 3
   },
   {
-    "word": "users",
+    "word": "earnings",
     "count": 3
   },
   {
-    "word": "models",
+    "word": "ceo",
     "count": 3
   },
   {
-    "word": "balanced",
+    "word": "company",
     "count": 3
   },
   {
-    "word": "evaluate",
+    "word": "billion",
     "count": 3
   },
   {
-    "word": "memory",
+    "word": "according",
     "count": 3
   },
   {
-    "word": "prometheus",
+    "word": "by",
     "count": 3
   },
   {
-    "word": "physical",
+    "word": "rese",
     "count": 3
   },
   {
-    "word": "like",
+    "word": "augmented",
     "count": 3
   },
   {
-    "word": "manufacturing",
+    "word": "onchain",
     "count": 3
   },
   {
-    "word": "already",
+    "word": "options",
     "count": 3
   },
   {
-    "word": "behind",
+    "word": "strategy",
     "count": 3
-  },
-  {
-    "word": "claims",
-    "count": 3
-  },
-  {
-    "word": "group",
-    "count": 3
-  },
-  {
-    "word": "screenshots",
-    "count": 3
-  },
-  {
-    "word": "insider",
-    "count": 3
-  },
-  {
-    "word": "information",
-    "count": 3
-  },
-  {
-    "word": "report",
-    "count": 3
-  },
-  {
-    "word": "shares",
-    "count": 3
-  },
-  {
-    "word": "chat",
-    "count": 3
-  },
-  {
-    "word": "solana",
-    "count": 3
-  },
-  {
-    "word": "applied",
-    "count": 3
-  },
-  {
-    "word": "agentic",
-    "count": 3
-  },
-  {
-    "word": "course",
-    "count": 3
-  },
-  {
-    "word": "learn",
-    "count": 2
-  },
-  {
-    "word": "iterativeimputer",
-    "count": 2
-  },
-  {
-    "word": "snp",
-    "count": 2
-  },
-  {
-    "word": "uses",
-    "count": 2
-  },
-  {
-    "word": "nearest",
-    "count": 2
-  },
-  {
-    "word": "features",
-    "count": 2
-  },
-  {
-    "word": "several",
-    "count": 2
-  },
-  {
-    "word": "machine",
-    "count": 2
-  },
-  {
-    "word": "learning",
-    "count": 2
-  },
-  {
-    "word": "command",
-    "count": 2
-  },
-  {
-    "word": "sui",
-    "count": 2
-  },
-  {
-    "word": "sys",
-    "count": 2
-  },
-  {
-    "word": "work",
-    "count": 2
   }
 ]
