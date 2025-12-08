@@ -1,82 +1,82 @@
 [
   {
-    "term": "crowdstrike",
-    "score": 0.06436100242343813
+    "term": "chars",
+    "score": 0.039668834846472885
   },
   {
-    "term": "data",
-    "score": 0.051759992332552796
+    "term": "new",
+    "score": 0.02984171759195203
+  },
+  {
+    "term": "agents",
+    "score": 0.028758638459897425
+  },
+  {
+    "term": "digital",
+    "score": 0.028461975933200316
+  },
+  {
+    "term": "it",
+    "score": 0.027253507172659293
+  },
+  {
+    "term": "in",
+    "score": 0.02713549168777009
   },
   {
     "term": "to",
-    "score": 0.04372396857481364
+    "score": 0.02704265898652525
   },
   {
-    "term": "age",
-    "score": 0.041248137100291356
+    "term": "of",
+    "score": 0.025300550585886733
   },
   {
-    "term": "week",
-    "score": 0.039531372095631075
+    "term": "china",
+    "score": 0.02415929794721219
   },
   {
-    "term": "memory",
-    "score": 0.03687869401731701
+    "term": "asset",
+    "score": 0.024055837255541394
   },
   {
-    "term": "claims",
-    "score": 0.03355419153660507
+    "term": "technology",
+    "score": 0.023984014077116294
   },
   {
-    "term": "insider",
-    "score": 0.03146258074484825
+    "term": "avalanche",
+    "score": 0.02340687344079557
   },
   {
-    "term": "chat",
-    "score": 0.03093610282521852
+    "term": "the",
+    "score": 0.02123912876144886
   },
   {
-    "term": "group",
-    "score": 0.02775153511234487
+    "term": "intelligence",
+    "score": 0.02120718070751501
   },
   {
-    "term": "screenshots",
-    "score": 0.02775153511234487
+    "term": "amazon",
+    "score": 0.021007865852011896
   },
   {
-    "term": "solana",
-    "score": 0.026086723869878165
+    "term": "fund",
+    "score": 0.020415899096504403
   },
   {
-    "term": "shares",
-    "score": 0.025604114051952023
+    "term": "wisdomtree",
+    "score": 0.020415899096504403
   },
   {
-    "term": "report",
-    "score": 0.025604114051952023
+    "term": "artificial",
+    "score": 0.019545679959762925
   },
   {
-    "term": "company",
-    "score": 0.024675857167677423
+    "term": "artificial intelligence",
+    "score": 0.019545679959762925
   },
   {
-    "term": "computing",
-    "score": 0.024585796011544675
-  },
-  {
-    "term": "npu",
-    "score": 0.024585796011544675
-  },
-  {
-    "term": "supervised",
-    "score": 0.023944893552124206
-  },
-  {
-    "term": "import",
-    "score": 0.023944893552124206
-  },
-  {
-    "term": "agentic",
-    "score": 0.02380178991520913
+    "term": "announced",
+    "score": 0.017993474305118738
   }
 ]
