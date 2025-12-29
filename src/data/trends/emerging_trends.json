@@ -1,302 +1,128 @@
 [
   {
-    "word": "bets",
-    "old_count": 0,
-    "new_count": 1,
-    "growth": "inf"
-  },
-  {
-    "word": "emerged",
-    "old_count": 0,
-    "new_count": 1,
-    "growth": "inf"
-  },
-  {
-    "word": "one",
-    "old_count": 0,
-    "new_count": 1,
-    "growth": "inf"
-  },
-  {
-    "word": "nvidia",
+    "term": "science",
     "old_count": 0,
     "new_count": 2,
     "growth": "inf"
   },
   {
-    "word": "universities",
+    "term": "cybersecurity",
     "old_count": 0,
     "new_count": 1,
     "growth": "inf"
   },
   {
-    "word": "code",
+    "term": "blockchainbased",
+    "old_count": 0,
+    "new_count": 1,
+    "growth": "inf"
+  },
+  {
+    "term": "blockchain",
     "old_count": 0,
     "new_count": 2,
     "growth": "inf"
   },
   {
-    "word": "lifted",
+    "term": "cyber",
     "old_count": 0,
     "new_count": 1,
     "growth": "inf"
   },
   {
-    "word": "betw",
+    "term": "blockchainpowered",
     "old_count": 0,
     "new_count": 1,
     "growth": "inf"
   },
   {
-    "word": "tasks",
-    "old_count": 0,
-    "new_count": 1,
-    "growth": "inf"
+    "term": "artificial",
+    "old_count": 1,
+    "new_count": 5,
+    "growth": 3.9999999959999997
   },
   {
-    "word": "drones",
-    "old_count": 0,
-    "new_count": 1,
-    "growth": "inf"
+    "term": "intelligence",
+    "old_count": 2,
+    "new_count": 5,
+    "growth": 1.49999999925
   },
   {
-    "word": "operating",
-    "old_count": 0,
-    "new_count": 1,
-    "growth": "inf"
-  },
-  {
-    "word": "cohesity",
-    "old_count": 0,
-    "new_count": 2,
-    "growth": "inf"
-  },
-  {
-    "word": "shaped",
-    "old_count": 0,
-    "new_count": 2,
-    "growth": "inf"
-  },
-  {
-    "word": "china",
-    "old_count": 0,
-    "new_count": 7,
-    "growth": "inf"
-  },
-  {
-    "word": "embodied",
-    "old_count": 0,
-    "new_count": 1,
-    "growth": "inf"
-  },
-  {
-    "word": "agentic",
-    "old_count": 0,
-    "new_count": 1,
-    "growth": "inf"
-  },
-  {
-    "word": "companies",
-    "old_count": 0,
-    "new_count": 1,
-    "growth": "inf"
-  },
-  {
-    "word": "based",
-    "old_count": 0,
-    "new_count": 2,
-    "growth": "inf"
-  },
-  {
-    "word": "doubles",
-    "old_count": 0,
-    "new_count": 1,
-    "growth": "inf"
-  },
-  {
-    "word": "revival",
-    "old_count": 0,
-    "new_count": 2,
-    "growth": "inf"
-  },
-  {
-    "word": "institute",
-    "old_count": 0,
-    "new_count": 2,
-    "growth": "inf"
-  },
-  {
-    "word": "windsolar",
-    "old_count": 0,
-    "new_count": 1,
-    "growth": "inf"
-  },
-  {
-    "word": "zone",
-    "old_count": 0,
-    "new_count": 1,
-    "growth": "inf"
-  },
-  {
-    "word": "were",
-    "old_count": 0,
-    "new_count": 2,
-    "growth": "inf"
-  },
-  {
-    "word": "largest",
-    "old_count": 0,
-    "new_count": 1,
-    "growth": "inf"
-  },
-  {
-    "word": "administration",
-    "old_count": 0,
-    "new_count": 1,
-    "growth": "inf"
-  },
-  {
-    "word": "market",
-    "old_count": 0,
-    "new_count": 4,
-    "growth": "inf"
-  },
-  {
-    "word": "maths",
-    "old_count": 0,
-    "new_count": 1,
-    "growth": "inf"
-  },
-  {
-    "word": "described",
-    "old_count": 0,
-    "new_count": 1,
-    "growth": "inf"
-  },
-  {
-    "word": "group",
-    "old_count": 0,
-    "new_count": 1,
-    "growth": "inf"
-  },
-  {
-    "word": "waiting",
-    "old_count": 0,
-    "new_count": 1,
-    "growth": "inf"
-  },
-  {
-    "word": "enter",
-    "old_count": 0,
-    "new_count": 1,
-    "growth": "inf"
-  },
-  {
-    "word": "shares",
-    "old_count": 0,
-    "new_count": 2,
-    "growth": "inf"
-  },
-  {
-    "word": "release",
-    "old_count": 0,
-    "new_count": 1,
-    "growth": "inf"
-  },
-  {
-    "word": "sign",
-    "old_count": 0,
-    "new_count": 1,
-    "growth": "inf"
-  },
-  {
-    "word": "will",
-    "old_count": 0,
-    "new_count": 1,
-    "growth": "inf"
-  },
-  {
-    "word": "depending",
-    "old_count": 0,
-    "new_count": 1,
-    "growth": "inf"
-  },
-  {
-    "word": "shows",
-    "old_count": 0,
-    "new_count": 1,
-    "growth": "inf"
-  },
-  {
-    "word": "integrates",
-    "old_count": 0,
-    "new_count": 1,
-    "growth": "inf"
-  },
-  {
-    "word": "india",
-    "old_count": 0,
-    "new_count": 2,
-    "growth": "inf"
-  },
-  {
-    "word": "web",
-    "old_count": 0,
+    "term": "internet",
+    "old_count": 2,
     "new_count": 3,
-    "growth": "inf"
+    "growth": 0.49999999975
   },
   {
-    "word": "govt",
-    "old_count": 0,
-    "new_count": 1,
-    "growth": "inf"
-  },
-  {
-    "word": "competition",
-    "old_count": 0,
+    "term": "robotics",
+    "old_count": 2,
     "new_count": 2,
-    "growth": "inf"
+    "growth": 0.0
   },
   {
-    "word": "meetings",
-    "old_count": 0,
+    "term": "cloud",
+    "old_count": 1,
     "new_count": 1,
-    "growth": "inf"
+    "growth": 0.0
   },
   {
-    "word": "qualifications",
-    "old_count": 0,
+    "term": "computing",
+    "old_count": 1,
     "new_count": 1,
-    "growth": "inf"
+    "growth": 0.0
   },
   {
-    "word": "set",
-    "old_count": 0,
-    "new_count": 3,
-    "growth": "inf"
-  },
-  {
-    "word": "steady",
-    "old_count": 0,
+    "term": "learn",
+    "old_count": 2,
     "new_count": 1,
-    "growth": "inf"
+    "growth": -0.49999999975
   },
   {
-    "word": "spotlight",
-    "old_count": 0,
-    "new_count": 2,
-    "growth": "inf"
-  },
-  {
-    "word": "calls",
-    "old_count": 0,
+    "term": "engineering",
+    "old_count": 3,
     "new_count": 1,
-    "growth": "inf"
+    "growth": -0.6666666664444444
   },
   {
-    "word": "labs",
-    "old_count": 0,
-    "new_count": 1,
-    "growth": "inf"
+    "term": "agent",
+    "old_count": 1,
+    "new_count": 0,
+    "growth": -0.9999999989999999
+  },
+  {
+    "term": "data",
+    "old_count": 1,
+    "new_count": 0,
+    "growth": -0.9999999989999999
+  },
+  {
+    "term": "secur",
+    "old_count": 1,
+    "new_count": 0,
+    "growth": -0.9999999989999999
+  },
+  {
+    "term": "things",
+    "old_count": 1,
+    "new_count": 0,
+    "growth": -0.9999999989999999
+  },
+  {
+    "term": "software",
+    "old_count": 1,
+    "new_count": 0,
+    "growth": -0.9999999989999999
+  },
+  {
+    "term": "security",
+    "old_count": 1,
+    "new_count": 0,
+    "growth": -0.9999999989999999
+  },
+  {
+    "term": "devops",
+    "old_count": 3,
+    "new_count": 0,
+    "growth": -0.9999999996666666
   }
 ]

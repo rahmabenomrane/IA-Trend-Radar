@@ -1,0 +1,46 @@
+[
+  {
+    "term": "intelligence",
+    "score": 0.021932694345757266
+  },
+  {
+    "term": "artificial intelligence",
+    "score": 0.020133309080322015
+  },
+  {
+    "term": "artificial",
+    "score": 0.020133309080322015
+  },
+  {
+    "term": "internet",
+    "score": 0.01661029370411431
+  },
+  {
+    "term": "engineering",
+    "score": 0.015750637713671856
+  },
+  {
+    "term": "robotics",
+    "score": 0.01571361518434208
+  },
+  {
+    "term": "devops",
+    "score": 0.01347320752813457
+  },
+  {
+    "term": "learn",
+    "score": 0.01171391629971065
+  },
+  {
+    "term": "robotics research",
+    "score": 0.009428946427889244
+  },
+  {
+    "term": "science",
+    "score": 0.009276573829717406
+  },
+  {
+    "term": "devops market",
+    "score": 0.008982138352089712
+  }
+]
