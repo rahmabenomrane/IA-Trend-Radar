@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>TrendScope AI – Tech Trend Intelligence</title>
+  <style>
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      background: radial-gradient(circle at center, #7b3fe4, #1a0b3d);
+      font-family: Arial, sans-serif;
+      color: white;
+    }
+
+    /* ===== NAVBAR ===== */
+    .navbar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 20px 60px;
+    }
+
+    .logo {
+      font-size: 22px;
+      font-weight: bold;
+      color: #fff;
+    }
+
+    .nav-btn {
+      background: #c77dff;
+      color: #1a0b3d;
+      padding: 10px 18px;
+      border-radius: 8px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    /* ===== HERO ===== */
+    .hero {
+      text-align: center;
+      padding: 80px 20px 40px;
+    }
+
+    .hero h1 {
+      font-size: 48px;
+      max-width: 900px;
+      margin: auto;
+      line-height: 1.2;
+    }
+
+    .hero p {
+      max-width: 700px;
+      margin: 20px auto;
+      font-size: 18px;
+      color: #ddd;
+    }
+
+    .hero .cta {
+      margin-top: 30px;
+    }
+
+    .cta a {
+      background: #c77dff;
+      color: #1a0b3d;
+      padding: 14px 28px;
+      border-radius: 10px;
+      font-weight: bold;
+      text-decoration: none;
+      margin: 0 10px;
+    }
+
+    /* ===== FEATURES ===== */
+    .features {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 30px;
+      padding: 60px;
+      max-width: 1200px;
+      margin: auto;
+    }
+
+    .feature-card {
+      background: rgba(255,255,255,0.08);
+      border-radius: 16px;
+      padding: 25px;
+      backdrop-filter: blur(8px);
+    }
+
+    .feature-card h3 {
+      margin-bottom: 10px;
+      color: #c77dff;
+    }
+
+    /* ===== RADAR ===== */
+    #radar-section {
+      text-align: center;
+      padding: 80px 20px;
+    }
+
+    #radar-container {
+      width: 900px;
+      height: 900px;
+      margin: 50px auto;
+      position: relative;
+      border-radius: 50%;
+      background: radial-gradient(circle at center, #b56cff, #5b2aa6, #2a0f5e);
+    }
+
+    .ring {
+      position: absolute;
+      border: 2px solid rgba(255,255,255,0.2);
+      border-radius: 50%;
+    }
+
+    .ring.r1 { width: 20%; height: 20%; top: 40%; left: 40%; }
+    .ring.r2 { width: 40%; height: 40%; top: 30%; left: 30%; }
+    .ring.r3 { width: 60%; height: 60%; top: 20%; left: 20%; }
+    .ring.r4 { width: 80%; height: 80%; top: 10%; left: 10%; }
+    .ring.r5 { width: 100%; height: 100%; top: 0; left: 0; }
+
+    .axis {
+      position: absolute;
+      width: 2px;
+      height: 100%;
+      background: rgba(255,255,255,0.2);
+      left: 50%;
+      top: 0;
+    }
+
+    .axis.horizontal {
+      width: 100%;
+      height: 2px;
+      top: 50%;
+      left: 0;
+    }
+
+    .dot {
+      position: absolute;
+      width: 12px;
+      height: 12px;
+      background: #2b0b4f;
+      border: 2px solid #c77dff;
+      border-radius: 50%;
+    }
+
+    .term-label {
+      position: absolute;
+      transform: translate(-50%, -120%);
+      font-size: 12px;
+      font-weight: 500;
+      color: #fff;
+      background: rgba(0,0,0,0.45);
+      padding: 6px 10px;
+      border-radius: 12px;
+      backdrop-filter: blur(6px);
+      white-space: nowrap;
+      pointer-events: none;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+    }
+
+    /* ===== FOOTER ===== */
+    footer {
+      text-align: center;
+      padding: 40px;
+      color: #bbb;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- NAVBAR -->
+  <div class="navbar">
+    <div class="logo">TrendScope AI</div>
+    <a href="#" class="nav-btn">Get Early Access</a>
+  </div>
+
+  <!-- HERO -->
+  <section class="hero">
+    <h1>Track the Future of Technology in Real Time</h1>
+    <p>
+      TrendScope AI analyzes thousands of sources to identify the most important
+      emerging technology trends — so you can stay ahead of the market.
+    </p>
+    <div class="cta">
+      <a href="#">Start Free</a>
+      <a href="#" style="background:transparent;color:#c77dff;border:1px solid #c77dff;">Request Demo</a>
+    </div>
+  </section>
+
+  <!-- FEATURES -->
+  <section class="features">
+    <div class="feature-card">
+      <h3>📊 Trend Intelligence</h3>
+      <p>Discover the most impactful technologies before they go mainstream.</p>
+    </div>
+    <div class="feature-card">
+      <h3>🤖 AI-Powered</h3>
+      <p>Our models analyze research, news, and market data automatically.</p>
+    </div>
+    <div class="feature-card">
+      <h3>🚀 Strategic Insights</h3>
+      <p>Make better decisions for innovation, investment, and product strategy.</p>
+    </div>
+  </section>
+
+  <!-- RADAR -->
+  <section id="radar-section">
+    <h2>Live Technology Trend Radar</h2>
+    <p>The most influential trends ranked by importance.</p>
+
+    <div id="radar-container">
+      <div class="ring r1"></div>
+      <div class="ring r2"></div>
+      <div class="ring r3"></div>
+      <div class="ring r4"></div>
+      <div class="ring r5"></div>
+      <div class="axis"></div>
+      <div class="axis horizontal"></div>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer>
+    © 2026 TrendScope AI – All rights reserved
+  </footer>
+
+  <!-- RADAR SCRIPT -->
+  <script>
+    function isOverlapping(x, y, placed) {
+      const minDist = 70;
+      return placed.some(p => {
+        const dx = x - p.x;
+        const dy = y - p.y;
+        return Math.sqrt(dx * dx + dy * dy) < minDist;
+      });
+    }
+
+    fetch("data/trends/tech_trends.json")
+      .then(res => res.json())
+      .then(data => {
+
+        const radar = document.getElementById("radar-container");
+        const center = 450;
+        const ringSpacing = 70;
+        const maxRadius = 420;
+
+        data.sort((a, b) => b.score - a.score);
+
+        const placed = [];
+
+        data.forEach((item, index) => {
+          let angle, radius, x, y;
+          let attempts = 0;
+
+          radius = Math.min(index * ringSpacing, maxRadius);
+
+          do {
+            angle = Math.random() * 2 * Math.PI;
+            x = center + Math.cos(angle) * radius;
+            y = center + Math.sin(angle) * radius;
+            attempts++;
+          } while (isOverlapping(x, y, placed) && attempts < 50);
+
+          placed.push({ x, y });
+
+          const dot = document.createElement("div");
+          dot.className = "dot";
+          dot.style.left = x + "px";
+          dot.style.top = y + "px";
+
+          const label = document.createElement("div");
+          label.className = "term-label";
+          label.innerText = item.term;
+          label.style.left = x + "px";
+          label.style.top = y + "px";
+
+          radar.appendChild(dot);
+          radar.appendChild(label);
+        });
+      });
+  </script>
+
+</body>
+</html>
